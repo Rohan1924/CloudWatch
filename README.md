@@ -333,7 +333,7 @@ The project uses a **3-stage GitHub Actions pipeline**:
 
 ```bash
 # Clone
-git clone https://github.com/kvkushal/CloudWatch.git
+git clone https://github.com/Rohan1924/CloudWatch.git
 cd CloudWatch
 
 # Start infrastructure

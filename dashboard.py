@@ -431,7 +431,7 @@ with st.sidebar:
                         color:#4F8EF7;text-transform:uppercase;margin-bottom:4px">Demo Mode</div>
             <div style="font-size:11px;color:#6B7A99;line-height:1.5">
                 Showing realistic static data.<br>
-                <a href="https://github.com/kvkushal/CloudWatch"
+                <a href="https://github.com/Rohan1924/CloudWatch"
                    target="_blank"
                    style="color:#4F8EF7;text-decoration:none">View source on GitHub</a>
             </div>
